@@ -1,0 +1,32 @@
+_repo: Memoirs-of-William-Wordsworth_72281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, George S. (George Searle)
+    aliases:
+    - Phillips, George Searle
+    - Searle, January
+    birthdate: 1815
+    deathdate: 1889
+    gutenberg_agent_id: '9632'
+    url: http://www.gutenberg.org/2009/agents/9632
+description: ''
+gutenberg_issued: '2023-12-02'
+identifiers:
+  gutenberg: '72281'
+language: en
+pgterms:marc904: https://archive.org/details/ofwilliammemoirs00philrich
+pgterms:marc905: 20210407040527searle
+pgterms:marc906: '1852'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bPartridge & Oakley, $c1852.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of William Wordsworth
+url: http://www.gutenberg.org/ebooks/72281
